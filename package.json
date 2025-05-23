@@ -1,6 +1,6 @@
 {
   "name": "@pnpm/types-fixer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A hook for fixing TypeScript issues",
   "files": [
     "pnpmfile.cjs"
