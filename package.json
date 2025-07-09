@@ -1,5 +1,5 @@
 {
-  "name": "@pnpm/types-fixer",
+  "name": "@pnpm/plugin-types-fixer",
   "version": "0.1.0",
   "description": "A hook for fixing TypeScript issues",
   "files": [
